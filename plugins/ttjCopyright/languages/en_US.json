@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Copyright",
+		"description": "Add copyright notes."
+	},
+	"enable-copyrights-on-pages": "Enable Copyrights on pages",
+	"enable-copyrights-on-posts": "Enable Copyrights on posts",
+	"enable-copyrights-on-default-home-page": "Enable Copyrights on default home page",
+	"copyrights-label": "Add text about copyrights",
+	"copyrights-text": "Copyrights text"
+}

@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Copyright",
+		"description": "Dodaj informacje o prawach wlasnosci."
+	},
+	"enable-copyrights-on-pages": "Aktywuj copyright na stronach",
+	"enable-copyrights-on-posts": "Aktywuj copyright na wpisach",
+	"enable-copyrights-on-default-home-page": "Aktywuj copyright na stronie glownej",
+	"copyrights-label": "Tekst o prawach wlasnosci",
+	"copyrights-text": "Dodaj tekst o prawach wlasnosci"
+}

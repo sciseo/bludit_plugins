@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "Twitter Widgets",
+		"description": "Adds twitter widgets to your side"
+	},
+
+	"set-twitter-label": "Add some twitter header",
+	"set-data-limit": "Set the limit of the tweets to show",
+	"name-of-twitter-user": "Set the name of the twitter user"
+}

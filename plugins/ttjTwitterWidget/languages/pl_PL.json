@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "Twitter widget",
+		"description": "Dodaje widget twitterowy"
+	},
+	"set-twitter-label": "Dodaj tytuł sekcji",
+	"set-data-limit": "Ustal limit pokazywanych tweetów",
+	"name-of-twitter-user": "Podaj nazwę użytkownika twittera"
+}
