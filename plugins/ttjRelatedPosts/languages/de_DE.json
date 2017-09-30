@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Ähnliche Beiträge",
+		"description": "Anzeige die ähnliche Beiträge."
+	},
+
+	"amount-of-posts": "Anzahl der ähnlichen Beiträge"
+}

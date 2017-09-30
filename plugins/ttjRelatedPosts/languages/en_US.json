@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Similar posts",
+		"description": "Shows the similar posts published."
+	},
+
+	"amount-of-posts": "Amount of similar posts"
+}
