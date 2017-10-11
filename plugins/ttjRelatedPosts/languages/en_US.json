@@ -2,7 +2,7 @@
 	"plugin-data":
 	{
 		"name": "Similar posts",
-		"description": "Shows the similar posts published."
+		"description": "Shows similar posts based on viewed post."
 	},
 
 	"amount-of-posts": "Amount of similar posts"

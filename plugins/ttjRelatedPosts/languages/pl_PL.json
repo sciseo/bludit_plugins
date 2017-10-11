@@ -2,8 +2,8 @@
 	"plugin-data":
 	{
 		"name": "Podobne wpisy",
-		"description": "Wyswietla podobne wpisy na podstawie tagow."
+		"description": "Wyświetla podobne wpisy na podstawie tagów wzświetlanego wpisu."
 	},
 
-	"amount-of-posts": "Ilosc wpisow"
+	"amount-of-posts": "Ilość wpisów"
 }

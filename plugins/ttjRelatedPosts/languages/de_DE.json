@@ -2,7 +2,7 @@
 	"plugin-data":
 	{
 		"name": "Ähnliche Beiträge",
-		"description": "Anzeige die ähnliche Beiträge."
+		"description": "Zeigt ähnliche Beiträge basierend auf den Tags des angezeigten Beitrags."
 	},
 
 	"amount-of-posts": "Anzahl der ähnlichen Beiträge"
